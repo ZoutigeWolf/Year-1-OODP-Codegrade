@@ -1,0 +1,4 @@
+interface ICleanable
+{
+    void Clean();
+}
