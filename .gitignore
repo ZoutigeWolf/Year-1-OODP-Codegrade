@@ -1,0 +1,7 @@
+.fleet/
+.idea/
+.vs/
+.vscode/
+TestResults/
+
+.DS_Store
